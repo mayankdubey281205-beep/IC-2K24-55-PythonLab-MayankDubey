@@ -1,7 +1,7 @@
 # Lab 3 - Python Programs
 
 ## Student
-**Name:** Pranav Khoti
+**Name:** Mayank Dubey
 
 ## Contents
 
