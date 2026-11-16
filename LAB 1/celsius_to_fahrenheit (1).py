@@ -1,4 +1,4 @@
-# This program converts temperature from Celsius to Fahrenheit.
+# This program is the logic that converts temperature from Celsius to Fahrenheit.
 
 celsius = float(input("Enter temperature in Celsius: "))
 
